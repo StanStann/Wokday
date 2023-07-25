@@ -1,0 +1,13 @@
+body{
+	background-image: url("Fold/afri3.jpg");
+	color: lightsteelblue;
+
+}
+
+li{
+	display: inline-block;
+	margin: 10px 10px;
+	box-align: center;
+}
+
+
